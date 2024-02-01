@@ -1,3 +1,6 @@
-TrafficAccidentData\all_16_22.csv
-env/
+Data/all_16_22.csv
+Data/Images/1km_img
+Data/Images/40m_img
+Data/Images/model_img
+Data/Images/model_img_2
 
